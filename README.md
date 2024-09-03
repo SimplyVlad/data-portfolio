@@ -7,5 +7,5 @@ List of projects:
 4. [Game Recommender System](https://github.com/SimplyVlad/game-recommender-system) - A recommender engine based on data obtained from Steam Australia.
 
 (Archived): <br>
-5. [DataExploration](https://gitlab.com/SimplyVlad/data-science/blob/master/DataExploration.ipynb) - contains a short example of merging two data sources and then performing data exploration using visualizations to facilitate classification. <br>
-6. [classification](https://gitlab.com/SimplyVlad/data-science/blob/master/classification.ipynb) - contains a short example of data cleaning, recoding, scaling, training of logistic regression model and then evaluating its performance metrics.
+5. [Data Exploration](https://gitlab.com/SimplyVlad/data-science/blob/master/DataExploration.ipynb) - Data exploration for a classification task. <br>
+6. [Classification](https://gitlab.com/SimplyVlad/data-science/blob/master/classification.ipynb) - Data preparation and classification modelling.
